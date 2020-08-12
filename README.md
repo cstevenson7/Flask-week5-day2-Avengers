@@ -22,3 +22,5 @@ flask db init
 flask db migrate -m "Create User and Post"
 
 flask db upgrade
+
+test
